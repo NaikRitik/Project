@@ -1,4 +1,4 @@
-# Integrated Diabetes Detection System (Team Setup Guide) 🏥
+# Diabetes Detection System (Team Setup Guide) 🏥
 
 This repository contains the **30% Milestone** code for our final year project. It includes the **Flask Web App Skeleton**, the **Clinical Data Model (SVC)**, and the **Image Preprocessing Pipeline**.
 
